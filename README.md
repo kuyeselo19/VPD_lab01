@@ -46,8 +46,8 @@
 ## Пример ожидаемого вывода
 
 ```text
-Hello to 304 from Oleseyuk Artyom, number 21, group M3О-110BVk-26!
-Привет, 304! Это Олесеюк Артём, номер 21, группа М3О-110БВк-26!
+Hello to 304 from Oleseyuk Artyom, number 15, group M3О-110BVk-26!
+Привет, 304! Это Олесеюк Артём, номер 15, группа М3О-110БВк-26!
 Student ID: М3О-110БВ-26/15 | Language: C | Control: 4560
 ```
 
